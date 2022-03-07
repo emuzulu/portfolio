@@ -1,2 +1,2 @@
 # portfolio
-My portfolio for my musical projects
+Portfolio website for my musical projects
